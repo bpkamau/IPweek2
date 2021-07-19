@@ -11,7 +11,7 @@ To run this website,you only need a computer and internet connection.
 
 ## HTML,CSS,Javascript.
 I used HTML,CSS and Javascript to create the entirety of this website and to style it. It is a very simple website and easy to use.
-## Support and contact details 
+## Support and contact details - bpkamau@gmail.com
 In case of any issues or if you want to contribute feel free to reach out.
 ### License MIT
 
